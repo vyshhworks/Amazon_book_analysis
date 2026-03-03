@@ -30,3 +30,7 @@ This project analyzes Amazon bestselling books from 2009 to 2019. It explores tr
 4.seaborn
 5.string
 6.re
+
+
+## Acknowledgment
+This project was created by following an example to learn dta analysis concepts in python. All analyses, visualizations, and interpretations in this repository reflect my own understanding and work.
